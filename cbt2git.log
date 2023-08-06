@@ -1,0 +1,15 @@
+2023-08-06 04:57:00.299723 - Initialized conversion of CBT507
+2023-08-06 04:57:00.525533 - Received CBT.V505.FILE507.PDS from FILE507.XMI 
+2023-08-06 04:57:00.528444 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE507.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:57:00.530476 - Found $DISCLM.eml (message/rfc822), moved to CBT507/$DISCLM.eml
+2023-08-06 04:57:00.531458 - Found $EMAILS.txt (text/plain) in CBT.V505.FILE507.PDS, moved to PDS/$EMAILS
+2023-08-06 04:57:00.532673 - Found $NOMANUL.txt (text/plain) in CBT.V505.FILE507.PDS, moved to PDS/$NOMANUL
+2023-08-06 04:57:00.533766 - Found $README.txt (text/plain) in CBT.V505.FILE507.PDS, moved to PDS/$README
+2023-08-06 04:57:00.534845 - Found @FILE507.txt (text/plain) in CBT.V505.FILE507.PDS, moved to PDS/@FILE507
+2023-08-06 04:57:00.543011 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE507.PDS
+2023-08-06 04:57:00.551895   - Received RECFM=U data, stored XMIT file as CBT507/LOADLIB.xmi
+2023-08-06 04:57:00.551965 - Found LOADLIB2.bin containing application/octet-stream, moved to PDS/LOADLIB2
+2023-08-06 04:57:00.715117 - Found OBJLIB.xmi (application/xmit) in CBT.V505.FILE507.PDS
+2023-08-06 04:57:00.735692   - Received to CBT507/V6.OBJLIB
+2023-08-06 04:57:00.924949 - Found PROCLIB.xmi (application/xmit) in CBT.V505.FILE507.PDS
+2023-08-06 04:57:00.947221   - Received to CBT507/V6.PROCLIB
